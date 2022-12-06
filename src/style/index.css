@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+   font-style: italic;
+}
