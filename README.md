@@ -24,5 +24,5 @@ npm run build
 ## Demo App
 
 - index.js(main javascript)
-- template.html(template)
-- styles/main.css(styles)
+- index.html(index)
+- style/index.css(styles)
